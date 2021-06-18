@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855376716660",
+    "firebase_url": "https://washing-app-49752.firebaseio.com",
+    "project_id": "washing-app-49752",
+    "storage_bucket": "washing-app-49752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855376716660:android:aa2a5eb2619841a3300221",
+        "android_client_info": {
+          "package_name": "com.khsofdev.service_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855376716660-0jkc5bcc90f3489769esuuofkvqfflcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVAuU5LQfbDCJez29ohnSbnPFyhfK7Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855376716660-0jkc5bcc90f3489769esuuofkvqfflcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

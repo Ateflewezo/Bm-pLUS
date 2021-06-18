@@ -1,0 +1,191 @@
+{
+    "home": "الرئسية",
+    "products": "المنتجات",
+    "allproducts": "كل المنتجات ",
+    "offers": "العروض",
+    "reservations": "الحجوزات",
+    "cars": "السيارات",
+    "operations": "العمليات",
+    "addoperation": "إضافة عملية",
+    "all_customer":"عرض كل الزبائن",
+"complete_operaction":"العمليات المكتملة",
+"add_service_to_oper":"إضافة خدمة ",
+"add_product_to_oper":"إضافة منتج ",
+"service_added":"الخدمات المضافة",
+"product_added":"المنتجات المضافة",
+"worker":"العامل : {lang}",
+    "lastoperations": "آخر العمليات",
+    "lastoffers": "آخر العروض",
+    "services": "الخدمات",
+    "customers": "الزبائن",
+    "workers": "العمال",
+    "workers_list": "قائمة العمال",
+    "Users": "المستخدمين",
+    "Statistics": "الإحصائيات",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "seeall": "عرض الكل",
+    
+    "complete": "المكتملة",
+    "given": "المستلمة",
+    "wating": " قيد الإنتظار",
+    "writing": " قيد التسجيل",
+    "current": " قيد التنفيذ",
+    
+    "Wills": "الارادات سنة",
+    "product_details":"تفاصيل منتج",
+    "user_info":"بيانات العميل",
+    "add_user_info":"أدخل معلومات الزبون",
+    "phone_number":"رقم الهاتف",
+    
+    "fullname":"الإسم الكامل",
+    "piace_nb":"رقم القطعة",
+    "sale_product":"بيع المنتج",
+    "shearch_txt":"بحث حسب الإسم",
+    "start_operation":"بدأ العملية",
+    "you_selected":"لقد اخترت خدمة",
+    "add_service_to_operation":"إضافة الخدمة الى العملية",
+    "select_worker":"إختر العامل",
+    "show_all_operator":"عرض كل التعاملات",
+    "show_all_customer":"عرض كل الزبائن",
+    "wllecom":"مرحبا بك",
+    "boss":"مدير",
+    "acounter":"محاسب",
+    "admin":"مشرف",
+    "login":"تسجيل الدخول",
+    "password":"كلمة المرور",
+    "total_year":"إجمالي الأجور ",
+    "paid":"تم الدفع",
+    "unpaid":"لم يدفع",
+    "worker_details":"إحصائيات العامل",
+    "customer_details":"إحصائيات الزبون",
+    "salaire1":"راتب شهري",
+    "salaire2":"راتب يومي",
+    "salaire_type":"نوع الراتب ",
+    "tot_comission":"مجموع العمولة",
+    "paidup":" المدفوع",
+    "select_month":"إختر الشهر",
+    "payments":"دفعات الأجر"
+    ,"pay":"الدفع",
+    "salaire":" الأجر",
+    "comission":" العمولة",
+    "thisDay":" اليوم",
+    "thisweak":" الأسبوع",
+    "thismonthe":" الشهر",
+    "thisyear":" السنة",
+    "enters":"المداخيل",
+    "expance":"المصاريف",
+    "enquam":"الأرباح",
+    "tot_services_product":"إجمالي المبيعات والخدمات",
+    "services_done":"لخدمات المقدمة",
+    "tot_salse":"إجمالي المبيعات",
+    "user_pirmiss":"صلاحيات المستخدمين",
+    "oper_permiss":"صلاحيات العمليات",
+    "service_permiss":"صلاحيات الخدمات ",
+    "prod_permiss":"صلاحيات المنتجات ",
+    "show_oper":"عرض العمليات",
+    "add_oper":"إضافة عملية",
+    "edit_oper":"تعديل عملية",
+    "delet_oper":"حذف عملية",
+    "show_ser":"عرض الخدمات",
+    "add_ser":"إضافة خدمة",
+    "edit_ser":"تعديل خدمة",
+    "delet_ser":"حذف خدمة",
+    "paid_worker_txt":"من خلال التأكيد سوف يتم تسديد مستحقات العامل لهذا الشهر",
+    "paid_oper_txt":"من خلال التأكيد سوف يتم تسديد مستحقات  العملية",
+    "pai_all_mont":"دفع المبلغ كاملاً",
+    "verf":"تأكيد",
+    "cancel":"إلغاء",
+    "operation_update_txt":"من خلال التأكيد سوف يتم البدأ في تنفيذ العملية  ",
+    "delet_Q":"هل تريد إلغاء العملية ؟",
+    "dalet_ser_Q":"هل تريد حذف الخدمة ؟",
+    "dalet_prod_Q":"هل تريد حذف المنتج ؟",
+    "edit_image":"تعديل الصورة",
+    "upload_image":"تحميل صورة",
+    "service_name":"اسم الخدمة",
+    "product_name":"اسم المنتج",
+    "price":"السعر",
+    "operation_added":"تم إضافة العملية بنجاح",
+    "go_operation":"الذهاب الى صفحة العمليات",
+    "operation_details":"تفاصيل العملية",
+    "oper_nb":"رقم العملية",
+    "tot_amont":"إجمالي المبلغ",
+    "rest_amont":"المتبقي",
+    "oper_satute":"حالة العملية",
+    "begin_oper":"بدأ عملية التنفيذ",
+    "close_oper":"اكمال عملية ",
+    "given_oper":"تسليم عملية ",
+    "add_offer":"إضافة عرض",
+    "name":"الإسم : ",
+    "action_typ":"نوع النشاط : ",
+    "coin":" العملة : ",
+    "app_setting":"إعدادات التطبيق",
+    "edite_info":"تعديل البيانات",
+    "add_worker":"إضافة عامل",
+    "share_offer":"مشاركة العرض",
+    "select_custom":"إختيار الزبائن",
+    "all":"الكل",
+    "share_by":"مشاركة الاعلان عبرى",
+    "sms":"رسالة نصية",
+    "whatsup":"الواتس اب",
+    "share_txt":"أدخل محتوى الإعلان",
+    "new_offer":"إضافة عرض جديد",
+    "persent_offer":"أكتب قيمة الخصم بـ%",
+    "grad":"الرتبة",
+        "great":"تم بنجاح !",
+        "nodata":"لا يوجد معلومات لعرضها",
+        "loading":"جاري التحميل ..!",
+        "uploading":"جاري الرفع ..!",
+        "maxlenght":"{} يجب ان لا يتجاوز عدد حروف النص {lang} حرف",
+        "salairy_paided":"{}  تم دفع اجر العامل بتاريخ {date} ",
+        "comisson_paided":"لا يوجد عمولة متبقية لدى هذا العامل  ",
+        "operation_msg":"{} تم تغير حالة طلبكم رقم {state0} من  {state1} الى {state2}  .",
+        "operation_msg_update":"{} من خلال التأكيد سوف يتم تغير حالة الطلب رقم {state0} من  {state1} الى {state2} ",
+
+        "msg_named": "{} مكتوبة باللغة {lang}",
+        "empty_operation": "عمليتك فارغة ..! ، الرجاء إضافة منتج أو خدمة إلى العملية"
+        ,"guest":"ضيف",
+        "add":"إضافة",
+        "edit":"تعديل",
+        "remove":"حذف",
+        "already_exist":"رقم الهاتف موجود مسبقا",
+        "wrong_phone":"رقم الهاتف غير موجود لدينا .",
+        "wrong_password":"كلمة المرور خاطئة   ."
+        ,"nooffers":"لا يوجد عروض لإظهارها",
+        "work_commission":"عمولة العامل",
+        "no_permission":"عذرا ,أنت لا تملك الصلاحية لتنفيذ هذا الأمر قم بالتواصل مع صاحب العمل "
+        ,"sms_phone":"الرقم المخصص للرسائل"
+        ,"status_off":"تم تعطيل محلكم من قبل BM+ قم بالتواصل مع خدمة العملاء لحل المشكل "
+        ,"logout_txt":"سيتم تسجيل الخروج \n هل أنت موافق على ذلك .؟"
+        ,"operation_paid_sms":"{} تم دفع المبلغ {state0} على طلبكم رقم {state1}.",
+        "complet_txt":"هل انت متأكد انك استلمت كل المبلغ , سيتم احتساب ان المبلغ قد سدد اذا قمت بتأكيد العملية",
+        "customer_doesnt_exi":"هذا العميل غير مسجل مسبقا رجاءا ادخل الاسم الكامل له"
+        ,"details":"تفاصيل إضافية"
+        ,"lost_connection":"لقد فقدت الاتصال بالانترنات , رجاءا قم بالاتصال حتى يتم رفع كل التعديلات على السرفر وتستطيع مشاركتها مع باقي المستخدمين"
+       ,"get_connection":"أنت متصل "
+       ,"should_paid":"لم يتم دفع باقي المبلغ"
+       ,"version":"الإصدار"
+       ,"hav_operation":"هذا الحساب لديه عمليات مكتملة . لا يمكن حذفه"
+       ,"wellcom_customer":"شكرا لإشتراككم معنا"
+       ,"delete_oper_error":"{}  العملية {state} لايمكن حذفها"
+
+
+    
+
+
+
+
+    
+
+
+    
+    
+
+
+
+
+
+}
+
+
+  

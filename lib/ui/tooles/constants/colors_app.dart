@@ -1,0 +1,25 @@
+library constants;
+
+import 'package:flutter/material.dart';
+const FINISHED_ON_BOARDING = 'finishedOnBoarding';
+const LOGIN = 'login';
+const NAME = 'name';
+const USER_PHONE = 'user_phone';
+const SMS_NUMBER = 'sms_number';
+const STORE_NAME = 'store_name';
+const STORE_IMG = 'store_img';
+const CURRENCY = 'currency';
+const ISO = 'iso';
+const TYPE = 'type';
+const IMAGE = 'image';
+const STOREID = 'store_id';
+const COLOR_ACCENT = 0xFFd756ff;
+const COLOR_PRIMARY_DARK = 0xFF6900be;
+const COLOR_PRIMARY = 0xFFa011f2;
+const FACEBOOK_BUTTON_COLOR = 0xFF415893;
+const USERS = 'users';
+const icon_color = Colors.black;
+const product_details1 = Color(0xFF1FAB97);
+const product_details2 = Color(0xFF263C58);
+const color3 = Color(0xFF2C4463);
+const color4 = Color(0xFF35557E);
